@@ -1,11 +1,5 @@
 # ECommerce Website
 
-## Demo Website
-
-- 👉 Heroku : [https://react-amazona.herokuapp.com](https://react-amazona.herokuapp.com)
-- 👉 Heroku Mirror: [https://react-amazona-mirror.herokuapp.com](https://react-amazona-mirror.herokuapp.com)
-
-
 ## Technologies:
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
